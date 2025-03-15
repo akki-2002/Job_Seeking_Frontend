@@ -36,6 +36,8 @@ const App = () => {
     };
     fetchUser();
   }, [isAuthorized]);
+   
+  
 
   return (
     <>
